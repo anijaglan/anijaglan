@@ -15,8 +15,14 @@ I speak Java, I am Solution Architect, Mentor and Reactive programmer.
 - :revolving_hearts: <b>I love:</b> :mountain_snow: :coffee:
 - :house: Gurugram, India
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anijaglan)
-
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=anijaglan) -->
+<a href="https://github.com/anijaglan/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anijaglan&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a>
+<!-- <a href="https://github.com/anijaglan/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anijaglan&layout=compact&theme=radical&hide_border=false&count_private=true" />
+</a>
+-->
 
 <!-- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anil-jaglan&repo=cxsearch) -->
 
